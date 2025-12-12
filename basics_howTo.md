@@ -2,7 +2,7 @@
 
 Navigation:
  - [Home](README.md)
- - [Information about SVG](Info_about_AVG.md)
+ - [Information about SVG](Info_about_SVG.md)
 
  ------
 
