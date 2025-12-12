@@ -2,7 +2,7 @@
 
 Navigation:
  - [Home](README.md)
- - [How to create a SVG](basics_howTo.md)
+ - [Information about SVG](Info_about_AVG.md)
 
  ------
 
